@@ -1,4 +1,4 @@
-[
+{"Desktops": [
     {
       "ProductID": "PC-DT-0100",
       "Naam": "Acer Nitro",
@@ -31,7 +31,7 @@
       "VerkoopPrijs": 1999.95,
       "Afbeeldingen": [ "PC-DT-0130", "PC-DT-0131", "PC-DT-0132" ]
     }
-  ],
+],
   "Laptops": [
     {
       "ProductID": "PC-LT-0100",
@@ -84,3 +84,4 @@
       "Afbeeldingen": [ "PC-MO-0120", "PC-MO-0121", "PC-MO-0122" ]
     }
   ]
+}
