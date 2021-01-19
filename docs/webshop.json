@@ -1,0 +1,87 @@
+
+  "Desktops": [
+    {
+      "ProductID": "PC-DT-0100",
+      "Naam": "Acer Nitro",
+      "Beschrijving": "Met de Acer Nitro speel je onbezorgd je favoriete games. De krachtige NVIDIA GeForce GTX 2060 videokaart zorgt voor soepele grafische toepassingen waardoor jij games als Fortnite of League of Legends speelt op ultra instellingen. Met de i7 processor en 16 gigabyte RAM geheugen draai je meerdere programma's tegelijkertijd en communiceer je tijdens het gamen met je vrienden via Skype of Discord.",
+      "AankoopPrijs": 1327.69,
+      "VerkoopPrijs": 1999.95,
+      "Afbeeldingen": [ "PC-DT-0100", "PC-DT-0101", "PC-DT-0102" ]
+    },
+    {
+      "ProductID": "PC-DT-0110",
+      "Naam": "HP Pavillion",
+      "Beschrijving": "De HP Pavilion TP01-0312nb is een desktop voor het werken in Adobe Photoshop. Je doet er de boekhouding op, je houdt je mailbox bij en bewerkt foto's. De Intel Core i5 processor zorgt ervoor dat programma's soepel draaien. Met 8 GB werkgeheugen schakel je zonder vertraging tussen openstaande vensters. Start de desktop in 15 seconden op met de ingebouwde 256 GB SSD.",
+      "AankoopPrijs": 397.25,
+      "VerkoopPrijs": 674.95,
+      "Afbeeldingen": [ "PC-DT-0110", "PC-DT-0111" ]
+    },
+    {
+      "ProductID": "PC-DT-0120",
+      "Naam": "HP Omen",
+      "Beschrijving": "Met de HP OMEN 880-102nd op je bureau speel je je favoriete games zonder zorgen. De NVIDIA GeForce GTX 1660Ti videokaart levert de benodigde spierballen om je game naar keuze op hoge instellingen te spelen. Bovendien is deze pc toekomstbestendig. Je plaatst namelijk gemakkelijk nieuw RAM geheugen of een extra SSD bij.",
+      "AankoopPrijs": 623.69,
+      "VerkoopPrijs": 1329.95,
+      "Afbeeldingen": [ "PC-DT-0120", "PC-DT-0121", "PC-DT-0122" ]
+    },
+    {
+      "ProductID": "PC-DT-0130",
+      "Naam": "Lenovo Legion",
+      "Beschrijving": "Speel je favoriete games op de hoogste instellingen met de Lenovo Legion T530-28ICB 90L300FEMH gaming desktop. De NVIDIA GeForce RTX 2060 videokaart is daar krachtig genoeg voor. De nieuwe generatie NVIDIA videokaarten beschikt over real-time ray tracing, zodat je videokaart simuleert hoe licht beweegt. Hierdoor ziet verlichting in games er realistischer uit. Bovendien ben je klaar voor VR met deze videokaart.",
+      "AankoopPrijs": 1327.69,
+      "VerkoopPrijs": 1999.95,
+      "Afbeeldingen": [ "PC-DT-0130", "PC-DT-0131", "PC-DT-0132" ]
+    }
+  ],
+  "Laptops": [
+    {
+      "ProductID": "PC-LT-0100",
+      "Naam": "HP Pavilion",
+      "Beschrijving": "Multitask terwijl je een foto bewerkt met de HP Pavilion Notebook 15-cw1039nb. Met 16 GB werkgeheugen schakel je snel tussen openstaande programma's. Op het 15,6 inch full hd scherm zet je ook 2 vensters naast elkaar open. Zo werk je efficiënter met een Word bestand terwijl je tegelijk op internet informatie zoekt.",
+      "AankoopPrijs": 453.69,
+      "VerkoopPrijs": 724.95,
+      "Afbeeldingen": [ "PC-LT-0100", "PC-LT-0101", "PC-LT-0102" ]
+    },
+    {
+      "ProductID": "PC-LT-0110",
+      "Naam": "Acer Aspire",
+      "Beschrijving": "De 15,6 inch Acer Aspire 7 A715-74G-77UR heeft een NVIDIA GeForce GTX 1650 videokaart en is daarom geschikt voor gamers die overal aan de slag gaan met de nieuwste games. Dankzij de krachtige videokaart speel je games als PUBG zonder problemen op hoge instellingen. De 256 gigabyte SSD gebruik je voor een paar games die je veel speelt. Games op een SSD zijn namelijk veel sneller geladen dan games op een 'normale' harde schijf.",
+      "AankoopPrijs": 798.29,
+      "VerkoopPrijs": 1264.95,
+      "Afbeeldingen": [ "PC-LT-0110", "PC-LT-0111", "PC-LT-0112" ]
+    },
+    {
+      "ProductID": "PC-LT-0120",
+      "Naam": "Levono IdeaPad",
+      "Beschrijving": "De Lenovo IdeaPad L340-17IWL 81M0004YMB is een 17,3 inch laptop waarop je foto's bewerkt in programma's als Adobe Photoshop. Dankzij de NVIDIA MX230 render je afbeeldingen van hoge kwaliteit sneller uit en spelen video's met een hoge beeldresolutie vloeiender. Een 17,3 inch laptop heeft een relatief groot beeld ten opzichte van andere inchformaten. Hierdoor werk je overzichtelijker met programma's, omdat je meer programmavensters naast elkaar opent.",
+      "AankoopPrijs": 392.36,
+      "VerkoopPrijs": 795.95,
+      "Afbeeldingen": [ "PC-LT-0120", "PC-LT-0121", "PC-LT-0122" ]
+    }
+  ],
+  "Monitoren": [
+    {
+      "ProductID": "PC-MO-0100",
+      "Naam": "Samsung LC49RG90SSUXEN",
+      "Beschrijving": "Ga volledig op in je favoriete games met de Samsung LC49RG90SSUXEN 49 inch gaming monitor. Dit super-ultrawide scherm is even groot als 2 schermen van 27 inch. Hierdoor overzie je het totale speelveld en zie je vijanden van mijlenver aankomen. Doordat het scherm curved is, zie je de hoeken van het scherm zonder je hoofd te bewegen.",
+      "AankoopPrijs": 729.73,
+      "VerkoopPrijs": 1349.92,
+      "Afbeeldingen": [ "PC-MO-0100", "PC-MO-0101", "PC-MO-0102" ]
+    },
+    {
+      "ProductID": "PC-MO-0110",
+      "Naam": "HP EliteDisplay",
+      "Beschrijving": "De HP EliteDisplay E243 is een 24 inch monitor die op meerdere manieren verstelbaar is. Zo ga je ergonomisch te werk achter je bureau op kantoor of thuis en pas je de monitor aan jouw zithouding aan. Gebruik de EliteDisplay E243 op kantoor voor simpele taken als tekstverwerken, internetten en spreadsheets.",
+      "AankoopPrijs": 277.62,
+      "VerkoopPrijs": 399.95,
+      "Afbeeldingen": [ "PC-MO-0110", "PC-MO-0111", "PC-MO-0112" ]
+    },
+    {
+      "ProductID": "PC-MO-0120",
+      "Naam": "LG 27UL500",
+      "Beschrijving": "Bewerk foto's en kijk films met de LG 27UL500. Deze 27 inch monitor heeft beeldscherm met 4K resolutie. Dit betekent dat je de kleinste details van je vakantiefoto's en je favoriete series waarneemt. Daarnaast zorgen de HDR ondersteuning en 99% sRGB kleurdekking voor realistische kleuren. Je bekijkt hoogwaardige content vanuit elke kijkhoek dankzij het IPS scherm.",
+      "AankoopPrijs": 297.32,
+      "VerkoopPrijs": 559.95,
+      "Afbeeldingen": [ "PC-MO-0120", "PC-MO-0121", "PC-MO-0122" ]
+    }
+  ]
